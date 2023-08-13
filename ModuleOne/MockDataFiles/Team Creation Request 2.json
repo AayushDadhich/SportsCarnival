@@ -1,0 +1,21 @@
+{
+  "gameType": 2,
+  "players": [
+    {
+      "playerId": 1,
+      "name": "A"
+    },
+    {
+      "playerId": 2,
+      "name": "B"
+    },
+    {
+      "playerId": 3,
+      "name": "C"
+    },
+    {
+      "playerId": 4,
+      "name": "D"
+    }
+  ]
+}
